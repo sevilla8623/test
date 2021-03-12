@@ -1,4 +1,4 @@
-n = int(input("Enter any number Sergey: "))
+n = int(input("Enter any number: "))
 
 
 def sum_of_digits(num):
